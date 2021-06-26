@@ -1,4 +1,4 @@
-# emojiprefix
+# 🎨 emojiprefix
 
 Emoji prefix guide for git commit message.
 This guide try to make small definition by
